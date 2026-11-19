@@ -19,5 +19,5 @@ spring:
 
 
   springdoc:
-    packagesToScan: com.airline.controller
+    packages-to-scan: com.airline.controller
 

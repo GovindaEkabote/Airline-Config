@@ -8,5 +8,5 @@ spring:
     password: Govinda@1997
     driver-class-name: com.mysql.cj.jdbc.Driver
 
-springdoc:
-  packages-to-scan: com.airline.controller
+  springdoc:
+    packages-to-scan: com.airline.controller

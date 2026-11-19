@@ -9,7 +9,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
 
   springdoc:
-    packagesToScan: com.airline.controller
+    packages-to-scan: com.airline.controller
 
   kafka:
     bootstrap-servers: localhost:9094
